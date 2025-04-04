@@ -1,8 +1,8 @@
-import React, { useState, useEffect } from "react";
-import { LogoAndText } from "@/components/logo-and-text";
+// import React, { useState, useEffect } from "react";
+// import { LogoAndText } from "@/components/logo-and-text";
 import { CountdownTimer } from "@/components/countdown-timer";
 import { TimelineLayout } from "@/components/timeline-layout";
-import { TimelineElement } from "@/components";
+// import { TimelineElement } from "@/components";
 import { timelineData } from "@/assets/data"; // Assuming you have a timelineData file
 import { Button } from "@/components/ui/button";
 
